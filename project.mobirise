@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sitio web de EMMGUAL Design",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -46,7 +46,15 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "jfwonndbg0",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
