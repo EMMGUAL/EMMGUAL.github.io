@@ -1,2 +1,2 @@
-# EMMGUAL.github.io
-EMMGUAL DESIGN
+# emmangodesignstudio.github.io
+emmango Design studio
